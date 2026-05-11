@@ -1,2 +1,2 @@
-# dennis_cloud_de25
-Introduction to cloud infrastructures
+# Introduction to data bricks and azure course
+
